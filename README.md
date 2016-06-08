@@ -12,6 +12,6 @@ Introducerea datelor se poate face din linia de comanda sau prin incarcarea unui
 Introducerea trainerilor se poate face dintr-un fisier text. Formatul este urmatorul: Pe prima linie, separate prin ','
 numele si prenumele trainerului. Pe a doua linie, separate prin ',' expertizele acestuia.
 
-**Ex:  **
+**Ex:**
 Ion,Popescu  
 C++,Java,Python  
